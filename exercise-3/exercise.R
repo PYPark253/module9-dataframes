@@ -36,7 +36,7 @@ food.tobacco <- data['Food and Tobacco', "x1960"]
 # What was the highest expenditure category in 1960?
 # Hint: use the `max()` function to find the largest, then compare that to the column
 
-
+s
 # Define a function `DetectHighest` that takes in a year as a parameter, and
 # returns the highest spending category of that year
 
